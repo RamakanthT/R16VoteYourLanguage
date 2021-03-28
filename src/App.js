@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { LangCard } from "./components/card/card";
+//import { LangCard } from "./components/card/card";
 import Card2 from "./components/card/Card2";
 import "./App.css";
 
